@@ -26,6 +26,14 @@ I enjoy building complete applications — from user interfaces in Flutter to ba
 
 ---
 
+## 💡 Additional Experience
+
+I've also worked with several other programming languages through university coursework, experiments, and personal learning:
+
+`JavaScript` · `Java` · `C` · `Python` · `Ruby` · `Swift`
+
+---
+
 ## 🔭 Currently Exploring
 
 - 🤖 Machine Learning and practical AI applications
