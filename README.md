@@ -7,8 +7,8 @@ I'm a **Flutter & Dart Developer** and a Computer Science student at **V. N. Kar
 I enjoy building complete applications — from user interfaces in Flutter to backend services and REST APIs in Dart.
 
 - 💙 Focused on **Flutter & Dart**
-- 📱 Building mobile and desktop applications
-- ⚙️ Interested in backend development with Dart
+- 📱 Building mobile, desktop, and cross-platform applications
+- ⚙️ Interested in backend development and application architecture
 - 🎓 4th-year Computer Science student
 - 💼 Open to **Junior Flutter / Dart Developer** opportunities
 
@@ -17,7 +17,7 @@ I enjoy building complete applications — from user interfaces in Flutter to ba
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter,postgres,docker,git,github,python" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,postgres,docker,git,github" />
 </p>
 
 **Frontend:** Flutter, Dart, BLoC, REST API integration  
@@ -26,11 +26,21 @@ I enjoy building complete applications — from user interfaces in Flutter to ba
 
 ---
 
-## 💡 Additional Experience
+## 🧩 Additional Experience
 
-I've also worked with several other programming languages through university coursework, experiments, and personal learning:
+Outside of my main Flutter & Dart stack, I've explored different technologies through university coursework, personal projects, and experimentation.
+
+**Programming languages**
 
 `JavaScript` · `Java` · `C` · `Python` · `Ruby` · `Swift`
+
+**Infrastructure & DevOps**
+
+`Linux` · `Docker` · `Kubernetes` · `GitHub Actions` · `CI/CD` · `Grafana`
+
+I enjoy experimenting with servers, containerized applications, deployment workflows, CI/CD pipelines, and basic monitoring.
+
+These are areas I have practical exposure to rather than technologies I currently specialize in.
 
 ---
 
@@ -40,6 +50,7 @@ I've also worked with several other programming languages through university cou
 - 🧠 Natural Language Processing and Computer Vision
 - ⚙️ Backend development and application architecture
 - 🖥️ Cross-platform Flutter development beyond mobile
+- 🛠️ Infrastructure, deployment, and developer tooling
 
 ---
 
